@@ -30,12 +30,12 @@
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- [[main]]
-    name = "CV Engish"
-    url = "New_CV_eng_Tumashkina.pdf"
-    weight = 70
-
 [[main]]
      name = "CV Français"
-     url = "New_CV_eng_Tumashkina.pdf"
+     url = "cv_fr.pdf"
      weight = 70
+
+ [[main]]
+    name = "CV Engish"
+    url = "cv_eng.pdf"
+    weight = 70
